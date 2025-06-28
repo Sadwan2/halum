@@ -75,5 +75,5 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/480px-NTV_%28Bangladesh%29_logo.svg.png",NTV  
 http://38.96.178.201/live/NTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="",DeeptoTV  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/431px-Logo_of_Deepto_TV.svg.png",DeeptoTV  
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
